@@ -1,4 +1,4 @@
-# Salty.cool -  MainSite
+# LiamIs.Top -  MainSite
 
 
 
@@ -15,4 +15,4 @@
 
 ## see it live
 
-[Live URL](https://salty.cool/)
+[Live URL](https://Liamis.top/)
